@@ -6,6 +6,8 @@ The goal of the application was to provide a semi-realistic experience for Skydi
 
 The controls for the parachute were based on the controllers' positions rather than any button combination.
 
+The scripts of most interest as I remember making them are PlayerJumpControl.cs and CharacterMovement.cs. 
+
 -Elliot Hunt
 Worked with Dheeraj Bhaskaruni!
 
